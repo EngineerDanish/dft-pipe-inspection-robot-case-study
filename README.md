@@ -78,6 +78,15 @@ My work on this project involves:
 * System-level validation
 
 ---
+## Documentation
+
+This repository includes public-safe documentation for the project:
+
+* [System Architecture](docs/architecture.md)
+* [My Role](docs/my-role.md)
+* [Engineering Challenges](docs/challenges.md)
+* [Lessons Learned](docs/lessons-learned.md)
+* [Disclaimer](DISCLAIMER.md)
 
 ## Technical Highlights
 
